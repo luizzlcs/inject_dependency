@@ -1,7 +1,7 @@
 <h1 align="center">Injeção de Dependência com Get It</h1>
 
 <a href="()"></a>
-<img alt="ENTRAR NO  PROJETO" title="Luiz Carlos" src="https://github.com/luizzlcs/inject_dependency" height="100" width="100" />
+"ENTRAR NO  PROJETO" src="https://github.com/luizzlcs/inject_dependency" height="100" width="100"
 <p align="align-left">O proje é bem simples com apenas três três telas(Splash, login, home) apenas para demonstração com foco no uso do GetIt, para tal foi feito uma estrutura de pastas afim de ser o mais próximo das melhores práticas de padrões de projetos.</p>
 
 <p align="center">
