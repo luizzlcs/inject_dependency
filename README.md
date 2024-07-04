@@ -1,7 +1,7 @@
 <h1 align="center">Injeção de Dependência com Get It</h1>
 
 <a href="()"></a>
-[ENTRAR NO  PROJETO](https://github.com/luizzlcs/inject_dependency)
+[ACESSAR  PROJETO](https://github.com/luizzlcs/inject_dependency)
 <p align="align-left">O proje é bem simples com apenas três três telas(Splash, login, home) apenas para demonstração com foco no uso do GetIt, para tal foi feito uma estrutura de pastas afim de ser o mais próximo das melhores práticas de padrões de projetos.</p>
 
 <p align="center">
