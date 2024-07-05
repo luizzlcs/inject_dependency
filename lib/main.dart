@@ -3,11 +3,7 @@ import 'package:flutter/material.dart';
 import 'injection/injection.dart';
 import 'my_app.dart';
 
-void main() {
-  configureDependency();
+Future<void> main() async {
+  await configureDependencies();
   runApp(const MyApp());
 }
-
-
-
-
