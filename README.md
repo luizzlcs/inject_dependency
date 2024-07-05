@@ -1,6 +1,8 @@
 <h1 align="center">Injeção de Dependência com Get It</h1>
 
-<p align="align-left">O proje é bem simples com apenas três três telas(Splash, login, home) apenas para demonstração com foco no uso do GetIt, para tal foi feito uma estrutura de pastas afim de se o mais próximo das melhores práticas de padrões de projetos.</p>
+<a href="()"></a>
+[ACESSAR  PROJETO](https://github.com/luizzlcs/inject_dependency)
+<p align="align-left">O proje é bem simples com apenas três três telas(Splash, login, home) apenas para demonstração com foco no uso do GetIt, para tal foi feito uma estrutura de pastas afim de ser o mais próximo das melhores práticas de padrões de projetos.</p>
 
 <p align="center">
 <img width="550" height="300" src="assets/images/GetIt.gif"/>
@@ -51,8 +53,6 @@ $ dart run
 ## Licença
 
 Este projeto está licenciado sob a Licença XYZ.
-
-### 🎲 Rodando o Projeto
 
 
 ---
