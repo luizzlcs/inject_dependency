@@ -1,8 +1,8 @@
 
 import 'package:dio/dio.dart';
-
+import 'package:injectable/injectable.dart';
 import '../model/user_model.dart';
-
+@injectable
 class AuthFirebaseDatasource {
   AuthFirebaseDatasource(this.dio);
   
@@ -13,3 +13,4 @@ class AuthFirebaseDatasource {
     return UserModel(name: 'Luiz Carlos');
   }
 }
+
